@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "offices": [
+      {
+        "address": "Suite 1308, 109 Pitt St \nSydney 2000",
+        "coordinates": {
+          "lat": -33.8934219,
+          "lon": 151.20404600000006
+        }
+      }
+    ],
+    "organization": "Balance at Work"
+  },
+  {
+    "id": 2,
+    "offices": [
+      {
+        "address": "Banbury, Oxfordshire",
+        "coordinates": {
+          "lat": 52.0629009,
+          "lon": -1.3397750000000315
+        }
+      }
+    ],
+    "organization": "Spring Development"
+  },
+  {
+    "id": 3,
+    "offices": [
+      {
+        "address": "Emerson 150 - 503, Colonia Chapultepec Morales, Delegación Miguel Hidalgo, México City, Mexico, CP 11570",
+        "coordinates": {
+          "lat": 19.4361004,
+          "lon": -99.18870959999998
+        }
+      }
+    ],
+    "organization": "Talent Lab"
+  },
+  {
+    "id": 4,
+    "offices": [
+      {
+        "address": "Ocean Financial Centre, Level 40, 10 Collyer Quay, Singapore, 049315",
+        "coordinates": {
+          "lat": 1.28304,
+          "lon": 103.85199319999992
+        }
+      },
+      {
+        "address": "St Saviours Wharf, London SE1 2BE",
+        "coordinates": {
+          "lat": 51.5014767,
+          "lon": -0.0713608999999451
+        }
+      },
+      {
+        "address": "Head office",
+        "coordinates": {
+          "lat": 51.515419,
+          "lon": -0.141099
+        }
+      }
+    ],
+    "organization": "Blue Square 360"
+  },
+  {
+    "id": 5,
+    "offices": [
+      {
+        "address": "Jumuia Place, Off Lenana Road, Nairobi, Kenya",
+        "coordinates": {
+          "lat": -1.2890117,
+          "lon": 36.793729600000006
+        }
+      }
+    ],
+    "organization": "Raiser Resource Group"
+  },
+  {
+    "id": 6,
+    "offices": [
+      {
+        "address": "29 Warren Court, Hampton Hargate, Peterborough, PE7 8HA",
+        "coordinates": {
+          "lat": 52.5381398,
+          "lon": -0.2713853000000199
+        }
+      }
+    ],
+    "organization": "Inspire - Ignite"
+  },
+  {
+    "id": 7,
+    "offices": [
+      {
+        "address": "Condominio Villas de Valencia 93, San Rafael de Escazú 10203, San José, Costa Rica",
+        "coordinates": {
+          "lat": 9.932159,
+          "lon": -84.14062790000003
+        }
+      }
+    ],
+    "organization": "Vanessa Gómez (Freelance consultant)"
+  },
+  {
+    "id": 8,
+    "offices": [
+      {
+        "address": "Rivium Oostlaan 35a, 2909 LL Capelle aan den IJssel, The Netherlands",
+        "coordinates": {
+          "lat": 51.9107013,
+          "lon": 4.547834200000011
+        }
+      }
+    ],
+    "organization": "LEAD TCM&L"
+  },
+  {
+    "id": 9,
+    "offices": [
+      {
+        "address": "725 Kenmore Road, Chapel Hill, North Carolina USA",
+        "coordinates": {
+          "lat": 35.94970259999999,
+          "lon": -79.0383625
+        }
+      }
+    ],
+    "organization": "Win With People"
+  },
+  {
+    "id": 10,
+    "offices": [
+      {
+        "address": "1911 Gadsden Street, Suite 201, Columbia, South Carolina 29201, USA",
+        "coordinates": {
+          "lat": 34.0091016,
+          "lon": -81.04493960000002
+        }
+      }
+    ],
+    "organization": "LeaderDevelopment, Inc."
+  },
+  {
+    "id": 11,
+    "offices": [
+      {
+        "address": "31st floor, Suntec Tower 2, 9 Temasek Boulevard, Singapore 038989",
+        "coordinates": {
+          "lat": 1.2957136,
+          "lon": 103.85872429999995
+        }
+      }
+    ],
+    "organization": "Beacon Search"
+  },
+  {
+    "id": 12,
+    "offices": [
+      {
+        "address": "Rich Homes Building, 5/1 Richmond Road, Bangalore, India - 560 025",
+        "coordinates": {
+          "lat": 12.9657659,
+          "lon": 77.5998538
+        }
+      },
+      {
+        "address": "1 Raffles Place, #20-61, Tower 2, Singapore 048616",
+        "coordinates": {
+          "lat": 1.284479,
+          "lon": 103.85108200000002
+        }
+      }
+    ],
+    "organization": "C2C Organizational Development"
+  },
+  {
+    "id": 13,
+    "offices": [
+      {
+        "address": "Newton House, Northampton Science Park, Moulton Park, Kings Park Road, Northampton, NN3 6LG",
+        "coordinates": {
+          "lat": 52.277409,
+          "lon": -0.877935999999977
+        }
+      },
+      {
+        "address": "No1 Royal Exchange, London, EC3V 3DG",
+        "coordinates": {
+          "lat": 51.5136102,
+          "lon": -0.08757919999993646
+        }
+      },
+      {
+        "address": "3 Hardman Square, Spinningfields, Manchester, M3 3EB",
+        "coordinates": {
+          "lat": 53.47990859999999,
+          "lon": -2.2510892999999896
+        }
+      }
+    ],
+    "organization": "Gallus Consulting"
+  },
+  {
+    "id": 14,
+    "offices": [
+      {
+        "address": "Adelaide, Australia",
+        "coordinates": {
+          "lat": -34.9284989,
+          "lon": 138.60074559999998
+        }
+      }
+    ],
+    "organization": "Darren Williams Consulting"
+  },
+  {
+    "id": 15,
+    "offices": [
+      {
+        "address": "Unley, SA 5061, Australia",
+        "coordinates": {
+          "lat": -34.95,
+          "lon": 138.60000000000002
+        }
+      }
+    ],
+    "organization": "Lincoln L&D"
+  },
+  {
+    "id": 16,
+    "offices": [
+      {
+        "address": "Kleinsachsenheimer Strasse 47, 74321 Bietigheim-Bissingen, Germany",
+        "coordinates": {
+          "lat": 48.96277,
+          "lon": 9.09699999999998
+        }
+      }
+    ],
+    "organization": "Targetter"
+  },
+  {
+    "id": 17,
+    "offices": [
+      {
+        "address": "70 Caspian Cove, Westmoorings, Port of Spain, Trinidad",
+        "coordinates": {
+          "lat": 10.6792447,
+          "lon": -61.56065180000002
+        }
+      }
+    ],
+    "organization": "Ask Leadership"
+  }
+]

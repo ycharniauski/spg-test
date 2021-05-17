@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="2.281">
+  <testsuite name="utils/deepClone" errors="0" failures="0" skipped="0" timestamp="2021-05-16T19:34:34" time="2.209" tests="3">
+    <testcase classname="utils/deepClone Clone primitives" name="utils/deepClone Clone primitives" time="0.005">
+    </testcase>
+    <testcase classname="utils/deepClone Clone array, check object children" name="utils/deepClone Clone array, check object children" time="0.004">
+    </testcase>
+    <testcase classname="utils/deepClone Check proto after clone" name="utils/deepClone Check proto after clone" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
